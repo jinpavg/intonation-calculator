@@ -53,3 +53,8 @@
         {/each}
     </ul>
 {/if}
+
+<div>
+    <p>made with love and affection by AVG, complaints can be sent here:<br/>
+    <a href="https://github.com/jinpavg/intonation-calculator/issues">GH issues page</a></p>
+</div>
